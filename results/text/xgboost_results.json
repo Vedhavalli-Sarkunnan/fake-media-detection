@@ -1,0 +1,15 @@
+{
+  "val_acc": 0.6121495327102804,
+  "test_acc": 0.5872138910812944,
+  "conf_matrix": [[480 338]
+ [185 264]],
+  "class_report":               precision    recall  f1-score   support
+
+           0       0.72      0.59      0.65       818
+           1       0.44      0.59      0.50       449
+
+    accuracy                           0.59      1267
+   macro avg       0.58      0.59      0.57      1267
+weighted avg       0.62      0.59      0.60      1267
+
+}

@@ -5,7 +5,7 @@ import re
 LABEL_MAP = {
     "true": 0,
     "mostly-true": 0,
-    "half-true": 1,
+    "half-true": 0,
     "barely-true": 1,
     "false": 1,
     "pants-fire": 1
